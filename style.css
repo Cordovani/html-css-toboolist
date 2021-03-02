@@ -58,6 +58,7 @@ section {
 
 li {
     list-style: none;
+    padding: 4px;
 }
 
 .list-head {
