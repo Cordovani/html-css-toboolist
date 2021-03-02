@@ -1,0 +1,52 @@
+/* reset */
+*{
+    padding: 0;
+    margin: 0;
+    border-sizing:border-box;
+}
+
+body {
+    background-color: rgb(246, 248, 249);
+}
+
+header{
+    background-color: white;
+    padding: 15px;
+}
+
+main{
+    background-color: white;
+    width: 1100px;
+    height: 500px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.button {
+    display: inline-block ;
+    border-radius: 5px;    
+}
+
+#add-task {
+    background-color: rgb(71, 173, 241) ;
+    color: white;
+}
+
+#add-section {
+     
+} 
+
+#logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#toboolist {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: "Arial";
+}
+
+.list {
+    list-style: none;
+}
