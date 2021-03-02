@@ -26,6 +26,8 @@ main{
 
 section {
     padding: 5px;
+    margin-left: 50px;
+    margin-top: 20px;
 }
 .button {
     display: inline-block ;
@@ -56,4 +58,13 @@ section {
 
 .list {
     list-style: none;
+}
+
+.list-head {
+    font-weight: bold;
+    list-style: none;
+}
+
+.badge {
+    
 }
